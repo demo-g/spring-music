@@ -6,5 +6,5 @@ applications:
   instances: 1
   # Currently defaults to PWS
   domain: cfapps.io
-  path: C:\Users\Hacker\Documents\pivotal\spring-music.war
+  path: D:\software\spring-music\pre-built\spring-music.war
  
